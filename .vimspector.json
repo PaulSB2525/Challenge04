@@ -1,0 +1,12 @@
+{
+  "configurations": {
+    "Launch Node": {
+      "adapter": "vscode-js-debug",
+      "configuration": {
+        "request": "launch",
+        "protocol": "inspector",
+        "program": "${workspaceRoot}/server.js"
+      }
+    }
+  }
+}
